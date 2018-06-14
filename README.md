@@ -16,7 +16,7 @@ $ chmod +x /path/to/changephpversion
 
 ```bash
 $ cd /usr/local/bin
-$ wget -O changephpversion https://raw.githubusercontent.com/tiagofsssampaio/changephpversion/master/changephpversion
+$ wget -O changephpversion https://github.com/tiagofssampaio/changephpversion/blob/master/changephpversion
 $ chmod +x changephpversion
 ```
 
